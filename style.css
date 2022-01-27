@@ -1,0 +1,25 @@
+body{
+    background-color: powderblue;
+}
+
+
+
+h4.plantilla{
+    background-color: black;
+    color: orange;
+    text-align: center;
+}
+
+p.porteros{
+    font-weight: bold;
+}
+
+p.Defensa{
+    font-weight: bold;
+}
+p.centro{
+    font-weight: bold;
+}
+p.delantera{
+    font-weight: bold;
+}
